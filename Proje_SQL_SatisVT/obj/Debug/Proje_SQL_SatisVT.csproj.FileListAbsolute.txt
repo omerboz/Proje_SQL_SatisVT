@@ -1,0 +1,12 @@
+C:\Users\Ömer\source\repos\Proje_SQL_SatisVT\Proje_SQL_SatisVT\bin\Debug\Proje_SQL_SatisVT.exe.config
+C:\Users\Ömer\source\repos\Proje_SQL_SatisVT\Proje_SQL_SatisVT\bin\Debug\Proje_SQL_SatisVT.exe
+C:\Users\Ömer\source\repos\Proje_SQL_SatisVT\Proje_SQL_SatisVT\bin\Debug\Proje_SQL_SatisVT.pdb
+C:\Users\Ömer\source\repos\Proje_SQL_SatisVT\Proje_SQL_SatisVT\obj\Debug\Proje_SQL_SatisVT.csproj.AssemblyReference.cache
+C:\Users\Ömer\source\repos\Proje_SQL_SatisVT\Proje_SQL_SatisVT\obj\Debug\Proje_SQL_SatisVT.Form1.resources
+C:\Users\Ömer\source\repos\Proje_SQL_SatisVT\Proje_SQL_SatisVT\obj\Debug\Proje_SQL_SatisVT.FrmKategoriler.resources
+C:\Users\Ömer\source\repos\Proje_SQL_SatisVT\Proje_SQL_SatisVT\obj\Debug\Proje_SQL_SatisVT.FrmMusteriler.resources
+C:\Users\Ömer\source\repos\Proje_SQL_SatisVT\Proje_SQL_SatisVT\obj\Debug\Proje_SQL_SatisVT.Properties.Resources.resources
+C:\Users\Ömer\source\repos\Proje_SQL_SatisVT\Proje_SQL_SatisVT\obj\Debug\Proje_SQL_SatisVT.csproj.GenerateResource.cache
+C:\Users\Ömer\source\repos\Proje_SQL_SatisVT\Proje_SQL_SatisVT\obj\Debug\Proje_SQL_SatisVT.csproj.CoreCompileInputs.cache
+C:\Users\Ömer\source\repos\Proje_SQL_SatisVT\Proje_SQL_SatisVT\obj\Debug\Proje_SQL_SatisVT.exe
+C:\Users\Ömer\source\repos\Proje_SQL_SatisVT\Proje_SQL_SatisVT\obj\Debug\Proje_SQL_SatisVT.pdb
